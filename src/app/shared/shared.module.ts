@@ -5,9 +5,9 @@ import { RouterModule } from '@angular/router';
 import { AboutPageComponent } from './pages/about-page/about-page.component';
 import { ContactPageComponent } from './pages/contact-page/contact-page.component';
 import { HomePagesComponent } from './pages/home-pages/home-pages.component';
-import { SidebarComponent } from './components/sidebar/sidebar.component';
-import { SearchBoxComponent } from './components/search-box/search-box.component';
 import { LoadingSpinnerComponent } from './components/loading-spinner/loading-spinner.component';
+import { SearchBoxComponent } from './components/search-box/search-box.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
 
 
 
@@ -16,9 +16,9 @@ import { LoadingSpinnerComponent } from './components/loading-spinner/loading-sp
     AboutPageComponent,
     ContactPageComponent,
     HomePagesComponent,
-    SidebarComponent,
-    SearchBoxComponent,
     LoadingSpinnerComponent,
+    SearchBoxComponent,
+    SidebarComponent,
 
   ],
   imports: [
@@ -29,9 +29,9 @@ import { LoadingSpinnerComponent } from './components/loading-spinner/loading-sp
     AboutPageComponent,
     ContactPageComponent,
     HomePagesComponent,
-    SidebarComponent,
-    SearchBoxComponent,
     LoadingSpinnerComponent,
+    SearchBoxComponent,
+    SidebarComponent,
   ]
 
 })
